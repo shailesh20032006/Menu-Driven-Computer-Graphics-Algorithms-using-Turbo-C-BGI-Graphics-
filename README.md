@@ -4,12 +4,14 @@ This project is a menu-driven computer graphics program developed using Turbo C+
 It demonstrates the implementation of fundamental computer graphics algorithms such as line drawing, circle drawing, and basic geometric shapes.
 The program provides manual input to the user for drawing shapes and uses classic algorithms taught in Computer Graphics (CG) courses.
 
+
 Features
 •  Menu-driven interface
 •  Manual input for all shapes
 •  Implements classic graphics algorithms
 •  Uses Turbo C++ compatible syntax
 •  Simple and easy-to-understand code
+
 
 Menu Options
 •  Line Drawing Algorithms
@@ -34,11 +36,15 @@ User Manual (How to Use)
 •  Press any key to return to the menu
 •  Select Exit to close the program
 
+
+
 How to Run the Program
 Requirements
 •	Turbo C++ 3.0
 •	BGI Graphics Library
 •	Windows (DOSBox recommended)
+
+
 
 Setup Steps
 •  Install Turbo C++ 3.0
@@ -59,6 +65,8 @@ Technologies Used
 •  Graphics Library: graphics.h (BGI)
 •  Compiler: Turbo C++ 3.0
 
+
+
 Algorithms Implemented
 •  DDA Line Algorithm
 •  Bresenham Line Algorithm
@@ -67,6 +75,8 @@ Algorithms Implemented
 •  Rectangle Drawing
 •  Triangle Drawing
 •  Ellipse Drawing
+
+
 
 Author
 Shailesh Sharma
