@@ -81,7 +81,7 @@ Requirements
 
 •  Load the .
       
-      cpp file
+      .cpp file
 
 •  Compile:
       
