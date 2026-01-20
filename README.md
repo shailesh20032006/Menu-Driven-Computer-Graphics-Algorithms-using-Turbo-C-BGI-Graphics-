@@ -74,17 +74,22 @@ Requirements
 •  Install Turbo C++ 3.0
 
 •  Ensure BGI folder path is correct:
-
-C:\TURBOC3\BGI
+      
+      C:\TURBOC3\BGI
+      
 •  Open Turbo C++
 
-•  Load the .cpp file
+•  Load the .
+      
+      cpp file
 
 •  Compile:
-Alt + F9
+      
+      Alt + F9
 
 •  Run:
-Ctrl + F9
+      
+      Ctrl + F9
 
 
 
