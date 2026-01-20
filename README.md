@@ -1,8 +1,9 @@
 # Menu-Driven-Computer-Graphics-Algorithms-using-Turbo-C-BGI-Graphics-
 Project Description 
-This project is a menu-driven computer graphics program developed using Turbo C++ and BGI graphics library.
+<small>This project is a menu-driven computer graphics program developed using Turbo C++ and BGI graphics library.
 It demonstrates the implementation of fundamental computer graphics algorithms such as line drawing, circle drawing, and basic geometric shapes.
-The program provides manual input to the user for drawing shapes and uses classic algorithms taught in Computer Graphics (CG) courses.
+The program provides manual input to the user for drawing shapes and uses classic algorithms taught in Computer Graphics (CG) courses.<small>
+
 
 
 Features
