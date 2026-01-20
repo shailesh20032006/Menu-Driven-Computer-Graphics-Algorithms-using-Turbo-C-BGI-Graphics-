@@ -10,9 +10,13 @@ The program provides manual input to the user for drawing shapes and uses classi
 # Features
 
 •  Menu-driven interface
+
 •  Manual input for all shapes
+
 •  Implements classic graphics algorithms
+
 •  Uses Turbo C++ compatible syntax
+
 •  Simple and easy-to-understand code
 
 
