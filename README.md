@@ -77,9 +77,12 @@ Requirements
 
 C:\TURBOC3\BGI
 •  Open Turbo C++
+
 •  Load the .cpp file
+
 •  Compile:
 Alt + F9
+
 •  Run:
 Ctrl + F9
 
@@ -99,11 +102,17 @@ Ctrl + F9
 # Algorithms Implemented
 
 •  DDA Line Algorithm
+
 •  Bresenham Line Algorithm
+
 •  Midpoint Circle Algorithm
+
 •  Bresenham Circle Algorithm
+
 •  Rectangle Drawing
+
 •  Triangle Drawing
+
 •  Ellipse Drawing
 
 
