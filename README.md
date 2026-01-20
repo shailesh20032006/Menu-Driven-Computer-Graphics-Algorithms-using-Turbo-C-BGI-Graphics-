@@ -1,5 +1,5 @@
 # Menu-Driven-Computer-Graphics-Algorithms-using-Turbo-C-BGI-Graphics-
-Project Description 
+# Project Description 
 
 This project is a menu-driven computer graphics program developed using Turbo C++ and BGI graphics library.
 It demonstrates the implementation of fundamental computer graphics algorithms such as line drawing, circle drawing, and basic geometric shapes.
@@ -7,7 +7,7 @@ The program provides manual input to the user for drawing shapes and uses classi
 
 
 
-Features
+# Features
 
 •  Menu-driven interface
 •  Manual input for all shapes
@@ -16,7 +16,7 @@ Features
 •  Simple and easy-to-understand code
 
 
-Menu Options
+# Menu Options
 
 •  Line Drawing Algorithms
 •	DDA Line Algorithm
@@ -32,7 +32,7 @@ Menu Options
 
 
 
-User Manual (How to Use)
+# User Manual (How to Use)
 
 •  Run the program
 •  Choose an option from the menu (1–6)
@@ -43,7 +43,7 @@ User Manual (How to Use)
 
 
 
-How to Run the Program
+# How to Run the Program
 
 Requirements
 •	Turbo C++ 3.0
@@ -52,7 +52,7 @@ Requirements
 
 
 
-Setup Steps
+# Setup Steps
 •  Install Turbo C++ 3.0
 •  Ensure BGI folder path is correct:
 C:\TURBOC3\BGI
@@ -66,7 +66,7 @@ Ctrl + F9
 
 
 
-Technologies Used
+# Technologies Used
 
 •  Language: C++
 •  Graphics Library: graphics.h (BGI)
@@ -74,7 +74,7 @@ Technologies Used
 
 
 
-Algorithms Implemented
+# Algorithms Implemented
 
 •  DDA Line Algorithm
 •  Bresenham Line Algorithm
@@ -86,9 +86,11 @@ Algorithms Implemented
 
 
 
-Author
+# Author
 
 Shailesh Sharma
+
+
 Computer Science / IT Student
 
 
