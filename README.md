@@ -22,15 +22,22 @@ The program provides manual input to the user for drawing shapes and uses classi
 
 # Menu Options
 
-•  Line Drawing Algorithms
-•	DDA Line Algorithm
-•	Bresenham Line Algorithm
-•  Circle Drawing Algorithms
-•	Midpoint Circle Algorithm
-•	Bresenham Circle Algorithm
+• Line Drawing Algorithms
+      
+      DDA Line Algorithm
+      Bresenham Line Algorithm
+      
+• Circle Drawing Algorithms
+
+      Midpoint Circle Algorithm
+      Bresenham Circle Algorithm
+      
 •  Rectangle Drawing
+
 •  Triangle Drawing
-•  Ellipse Drawing
+
+•  Ellipse Drawing'
+
 •  Exit Program
 
 
@@ -39,10 +46,15 @@ The program provides manual input to the user for drawing shapes and uses classi
 # User Manual (How to Use)
 
 •  Run the program
+
 •  Choose an option from the menu (1–6)
+
 •  Enter the required coordinates or radius values manually
+
 •  The selected shape will be drawn on the graphics screen
+
 •  Press any key to return to the menu
+
 •  Select Exit to close the program
 
 
@@ -51,14 +63,18 @@ The program provides manual input to the user for drawing shapes and uses classi
 
 Requirements
 •	Turbo C++ 3.0
+
 •	BGI Graphics Library
+
 •	Windows (DOSBox recommended)
 
 
 
 # Setup Steps
 •  Install Turbo C++ 3.0
+
 •  Ensure BGI folder path is correct:
+
 C:\TURBOC3\BGI
 •  Open Turbo C++
 •  Load the .cpp file
@@ -73,7 +89,9 @@ Ctrl + F9
 # Technologies Used
 
 •  Language: C++
+
 •  Graphics Library: graphics.h (BGI)
+
 •  Compiler: Turbo C++ 3.0
 
 
